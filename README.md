@@ -12,9 +12,9 @@ The assembly process is divided into several stages:
 
 ## Video Demonstration
 
-For a detailed view of the assembly process, watch the demonstration video below:
+For a detailed view of the assembly process, click the image below to watch the demonstration video on YouTube:
 
-![Automated Assembly Process Video](./path_to_video.mp4)
+[![Automated Assembly Process Video](./media/thumbnail.png)](https://www.youtube.com/watch?v=CePds0MAfQ0&t=91s&ab_channel=JoaquinColoma)
 
 ## Key Components
 
