@@ -10,6 +10,12 @@ The assembly process is divided into several stages:
 3. **Final Body Assembly**: The robots position the doors, hood, and trunk.
 4. **Completion**: The assembled vehicle exits the cell for final adjustments by human operators.
 
+## Video Demonstration
+
+For a detailed view of the assembly process, watch the demonstration video below:
+
+![Automated Assembly Process Video](./path_to_video.mp4)
+
 ## Key Components
 
 - **ABB IRB 4600 Robots**: Two robots, one on each side of the vehicle, handle tasks such as picking and placing components and tightening screws.
@@ -43,9 +49,4 @@ Potential enhancements for this system include:
 - Integrating IoT sensors for real-time monitoring and maintenance.
 - Adding machine learning algorithms to optimize robot trajectories and predict maintenance needs.
 
-## Video Demonstration
-
-For a detailed view of the assembly process, watch the demonstration video below:
-
-![Automated Assembly Process Video](./path_to_video.mp4)
 
